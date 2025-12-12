@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patan Shahid Khan</h1>
-<h3 align="center">Aspiring Data Scientist | ML & Deep Learning Enthusiast | B.Tech CSE (AI & DS)</h3>
+<h3 align="center">Aspiring AI Engineer | ML & Deep Learning Enthusiast | B.Tech CSE (AI & DS)</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Statistics, SQL, and Data Visualization**
 
